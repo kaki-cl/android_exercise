@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DotInstallApp</string>
+    <string name="result_text">...</string>
+    <string name="omikuji_button_text">あなたの運勢は？</string>
+</resources>
