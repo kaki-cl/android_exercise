@@ -1,16 +1,15 @@
 *.iml
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+.idea/*
 .DS_Store
 /build
 /captures
 .externalNativeBuild
-Caveats
-Downloading
-Pouring
-Summary
-gradlew
-gradlew.bat
-/.idea/
+app/src/main/res/raw/third_party_license_metadata
+app/src/main/res/raw/third_party_licenses
+
+# not ignore
+!.idea/codeStyleSettings.xml
+!.idea/icon.png
+!.idea/icon_dark.png
